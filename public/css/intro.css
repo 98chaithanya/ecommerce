@@ -1,0 +1,64 @@
+.fun{
+    width:30%;
+    height: 400%;
+    border: 2px skyblue;
+    background-color: white;
+
+}
+#intro{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-top:-40%;
+    margin-right: 2%;
+    background-color: cadetblue;
+    text-align: center;
+}
+#what{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-right: 2%;
+    margin-top: -10%;
+    background-color: cadetblue;
+}
+#script{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-right: 2%;
+    margin-top: -10%;
+    background-color: cadetblue;
+}
+#hello{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-right: 2%;
+    margin-top: -10%;
+    background-color: cadetblue;
+}
+#var{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-right: 2%;
+    margin-top: -10%;
+    background-color: cadetblue;
+}
+#dvar{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-right: 2%;
+    margin-top: -10%;
+    background-color: cadetblue;
+}
+#scop{
+    width:60%;
+    height: 400px;
+    float: right;
+    margin-right: 2%;
+    margin-top: -10%;
+    background-color: cadetblue;
+}
