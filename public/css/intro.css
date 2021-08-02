@@ -3,32 +3,38 @@
     height: 400%;
     border: 2px skyblue;
     background-color: white;
+    background-attachment: fixed;
+    position: fixed;
 
 }
 #intro{
     width:60%;
     height: 400px;
     float: right;
-    margin-top:-40%;
     margin-right: 2%;
     background-color: cadetblue;
     text-align: center;
+    justify-content: center;
+    flex-direction: column;
 }
 #what{
     width:60%;
     height: 400px;
     float: right;
     margin-right: 2%;
-    margin-top: -10%;
     background-color: cadetblue;
+    justify-content: center;
+    flex-direction: column;
 }
 #script{
     width:60%;
     height: 400px;
     float: right;
     margin-right: 2%;
-    margin-top: -10%;
     background-color: cadetblue;
+    justify-content: center;
+    flex-direction: column;
+
 }
 #hello{
     width:60%;
@@ -37,6 +43,8 @@
     margin-right: 2%;
     margin-top: -10%;
     background-color: cadetblue;
+    justify-content: center;
+    flex-direction: column;
 }
 #var{
     width:60%;
@@ -45,6 +53,8 @@
     margin-right: 2%;
     margin-top: -10%;
     background-color: cadetblue;
+    flex-direction: column;
+    justify-content: center;
 }
 #dvar{
     width:60%;
@@ -53,6 +63,8 @@
     margin-right: 2%;
     margin-top: -10%;
     background-color: cadetblue;
+    flex-direction: column;
+    justify-content: center;
 }
 #scop{
     width:60%;
@@ -61,4 +73,6 @@
     margin-right: 2%;
     margin-top: -10%;
     background-color: cadetblue;
+    flex-direction: column;
+    justify-content: center;
 }
