@@ -1,14 +1,18 @@
 .head{
-    width:100%;
+    width: 70%;
     text-align: left;
     margin-left: 30%;
     height: 50%;
     float:left;
     margin-top: 15px;
+    margin: 2px solid black;
+    border: 2px solid black;
 }
 input[ type=text]{
-    width:10%;
+    width:30%;
     height: 20%;
+  margin-left: 10%;
+  margin-top: 1%;
 }
 button[type=text]{
     width:30%;
@@ -38,7 +42,7 @@ button[type=text]{
 .admin{
     width:60%;
     height:50px;
-    border:20px salmon;
+    border:20px s salmon;
     margin-left:30%;
     margin-top:-700px;
     margin: 2px solid black;
@@ -48,6 +52,7 @@ button[type=text]{
 li{
  list-style: none;
  float: left;
+ margin-top: 1%;
 }
 .button{
     color:black;
